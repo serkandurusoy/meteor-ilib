@@ -20,4 +20,4 @@ Result would be:
 
 More information available at [https://www.npmjs.com/package/ilib](https://www.npmjs.com/package/ilib)
 
-*PS: Javascript internationalization is now a first class citizen. This library filled in a great gap until now, but users experienced with it seem to be finding it heavy and moving on to native or more modern libraries. Nonetheless, this is a very comprehensive library, and provides access to `sortkey`s which no other library nor the native solution seems to provide. And that's exactly what I need for another package. Hence this one.*
+*PS: Javascript internationalization is now a first class citizen. This library filled in a great gap until now, and filled it well. But some of those users who are more experienced with it seem to be finding it heavy and moving on to native or more modern libraries. Nonetheless, this is a very comprehensive library being actively maintained, and provides access to `sortkey`s which no other library nor the native solution seems to provide. And that's exactly what I need for another package. Hence this one.*
